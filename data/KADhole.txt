@@ -1,0 +1,83 @@
+# Title: KADhole
+# Description: Uzupelnienie KADhosts do Pi-hole
+# Last modified: Fri, 03 Apr 2020, 20:54 UTC+02
+# Version: 2020.4.3.0
+# Expires: 2 days
+# Website: https://kadantiscam.netlify.com/
+# Repository: https://github.com/PolishFiltersTeam/KADhosts
+# Based on: https://github.com/PolishFiltersTeam/KAD
+# License: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
+#
+# (EN) WARNING: Sites listed below can be harmful. Please, do not visit them if you don't know what you're doing!
+# (PL) UWAGA: Strony ponizej moga byc szkodliwe. Prosze, nie wchodz na nie, jesli nie wiesz co robisz!
+#
+#
+#
+# Podejrzane i/lub strony polaczone z innymi oszustwami
+(^|\.)pokolorujfb.*\.glt\.pl$
+#
+#
+# Przekrety
+(^|\.)allegro\.pl-nowe-regulamin.*\.*\.com$
+(^|\.)apple-.*\.deviceoffergiveaways\.icu$
+(^|\.)apple\.com-.*\.live$
+(^|\.)apple\.com-.*\.xyz$
+(^|\.)apple\..*\.top$
+(^|\.)app.*\.kromtech\.net$
+(^|\.)dzieckoalert\..*$
+(^|\.)facebook.*\.5v\.pl$
+(^|\.)faktury[0-9]+\.org$
+(^|\.)faktypolska.*\.b-cdn\.net$
+(^|\.)google-.*\.anniversarygiveawaysseries\.xyz$
+(^|\.)google-.*\.bestgadgetoffers\.icu$
+(^|\.)google-.*\.newgadgetpresents\.icu$
+(^|\.)google-.*\.smartphonesbonusoffers\.icu$
+(^|\.)historieludzkie.*\.online$
+(^|\.)komornik.*-gov\.tk$
+(^|\.)lokalneinformacje.*\.vot\.pl$
+(^|\.)platnik.*\.online$
+(^|\.)sprnr.*\.net$
+(^|\.)superchance-forwin.*\.life$
+(^|\.)update\..*sf*\.online$
+(^|\.)wp\..*\.top$
+(^|\.)your-mac-security-analysis\.net\..*\.*\.agency$
+(^|\.)your-mac-security-analysis\.net\..*\.*\.icu$
+(^|\.)your-mac-security-analysis\.net\..*\.*\.life$
+(^|\.)your-mac-security-analysis\.net\..*\.*\.live$
+(^|\.)your-mac-security-analysis\.net\..*\.*\.xyz$
+(^|\.)zaplata.*\.tk$
+(^|\.)zdjecie-facebook-.*\.dkonto\.pl$
+(^|\.)[0-9]+platnosci\.online$
+(^|\.)[0-9]+platnosc\.online$
+#
+#
+# Blogspot
+(^|\.)barsy.*\.blogspot\.com$
+(^|\.)czas-na-fb.*\.blogspot\.com$
+(^|\.)fabryka-chinczykow.*\.blogspot\.com$
+(^|\.)facebokznajomi.*\.blogspot\.com$
+(^|\.)facebook-kolor.*\.blogspot\.com$
+(^|\.)fbcolor.*\.blogspot\.com$
+(^|\.)fbpodglad.*\.blogspot\.com$
+(^|\.)fb-podglad.*\.blogspot\.com$
+(^|\.)fcolors.*\.blogspot\.com$
+(^|\.)fejsopodgladacz.*\.blogspot\.com$
+(^|\.)freeiqtest.*\.blogspot\.com$
+(^|\.)nauczycielkasex.*\.blogspot\.com$
+(^|\.)odzyskajsnapy.*\.blogspot\.com$
+(^|\.)polkawlesie.*\.blogspot\.com$
+(^|\.)sexdzieci.*\.blogspot\.com$
+(^|\.)sexfabryka.*\.blogspot\.com$
+(^|\.)sex-fabryka.*\.blogspot\.com$
+(^|\.)szokgwalt.*\.blogspot\.com$
+(^|\.)twoj-test-iq.*\.blogspot\.com$
+(^|\.)wideo-pryszcz.*\.blogspot\.com$
+(^|\.)wyciskaniepryszcza0.*\.blogspot\.com$
+(^|\.)wyciskanie-pryszcza.*\.blogspot\.com$
+(^|\.)wygrajnike.*\.blogspot\.com$
+(^|\.)zgarnijnike.*\.blogspot\.com$
+(^|\.)zmienkolory.*\.blogspot\.com$
+(^|\.).*fejs-colors\.blogspot\.com$
+(^|\.).*internet-lte-5gb\.blogspot\.com$
+(^|\.).*pakiety-lte-5gb\.blogspot\.com$
+(^|\.).*pakiety-pokemon-go\.blogspot\.com$

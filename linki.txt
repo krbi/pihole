@@ -1,0 +1,46 @@
+Lista filtrów:
+•Polish filters for Pi hole – https://raw.githubusercontent.com/MajkiIT/polish-ads-filter/master/polish-pihole-filters/hostfile.txt
+•Easylist Host filters for Pi hole – https://raw.githubusercontent.com/MajkiIT/polish-ads-filter/master/polish-pihole-filters/easylist_host.txt
+•EasyPrivacy Host filters for Pi hole – https://raw.githubusercontent.com/MajkiIT/polish-ads-filter/master/polish-pihole-filters/easy_privacy_host.txt
+•Adguard Host filters for Pi hole– https://raw.githubusercontent.com/MajkiIT/polish-ads-filter/master/polish-pihole-filters/adguard_host.txt
+•KAD Host filters for Pi hole (By MajkiIT) – https://raw.githubusercontent.com/MajkiIT/polish-ads-filter/master/polish-pihole-filters/kad_host.txt
+•CoinBlocker hosts List by ZeroDot – https://raw.githubusercontent.com/ZeroDot1/CoinBlockerLists/master/hosts
+•NoCoin Filter List – https://raw.githubusercontent.com/hoshsadiq/adblock-nocoin-list/master/hosts.txt
+•Ad filter list by Disconnect for PiHole – https://raw.githubusercontent.com/MajkiIT/polish-ads-filter/master/polish-pihole-filters/Ad_filter_list_by_Disconnect.txt
+•Ad server list for use with hosts files to block ads – https://raw.githubusercontent.com/MajkiIT/polish-ads-filter/master/polish-pihole-filters/Peter_Lowe_ADS.txt
+•Adguard Crypto Host filters for Pi hole – https://raw.githubusercontent.com/MajkiIT/polish-ads-filter/master/polish-pihole-filters/adguard_crypto_host.txt
+•Adguard Host filters for Pi hole – https://raw.githubusercontent.com/MajkiIT/polish-ads-filter/master/polish-pihole-filters/adguard_host.txt
+•Adguard Mobile Host filters for Pi hole – https://raw.githubusercontent.com/MajkiIT/polish-ads-filter/master/polish-pihole-filters/adguard_mobile_host.txt
+•Collection of Analytics, Ads, and tracking hosts to block – extended – https://raw.githubusercontent.com/MajkiIT/polish-ads-filter/master/polish-pihole-filters/ads-and-tracking-extended.txt
+•Collection of Analytics, Ads, and tracking hosts to block – https://raw.githubusercontent.com/MajkiIT/polish-ads-filter/master/polish-pihole-filters/ads-and-tracking.txt
+•Host file to block ads, tracking and more! – https://raw.githubusercontent.com/MajkiIT/polish-ads-filter/master/polish-pihole-filters/adservers.txt
+•Gambling hosts – https://raw.githubusercontent.com/MajkiIT/polish-ads-filter/master/polish-pihole-filters/gambling-hosts.txt
+•SmartTV Host filters for Pi hole – https://raw.githubusercontent.com/MajkiIT/polish-ads-filter/master/polish-pihole-filters/SmartTV_ads.txt
+•YouTube filters for Pi hole – https://raw.githubusercontent.com/MajkiIT/polish-ads-filter/master/polish-pihole-filters/youtubehosts.txt
+•Lightswitch05’s ads-and-tracking – https://raw.githubusercontent.com/MajkiIT/polish-ads-filter/master/polish-pihole-filters/ads-and-tracking.txt
+•Lightswitch05’s ads-and-tracking-extended – https://raw.githubusercontent.com/MajkiIT/polish-ads-filter/master/polish-pihole-filters/ads-and-tracking-extended.txt
+•Android Tracking Host filters for Pi hole – https://raw.githubusercontent.com/MajkiIT/polish-ads-filter/master/polish-pihole-filters/android-tracking-pihole.txt
+•TeslaCrypt Ransomware Payment Sites domain blocklist (TC_PS_DOMBL) – https://raw.githubusercontent.com/MajkiIT/polish-ads-filter/master/polish-pihole-filters/TeslaCrypt_Ransomware_Payment_Sites.txt
+•CryptoWall Ransomware C2 domain blocklist (CW_C2_DOMBL) – https://raw.githubusercontent.com/MajkiIT/polish-ads-filter/master/polish-pihole-filters/CryptoWall_Ransomware_C2.txt
+
+Dodatkowa lista domen, tu ju¿ skala œwiatowa, baza zawiera oko³o 1,3 miliona domen.
+https://www.tranzystor.pl/pliki/piholl_black_list.txt
+https://www.tranzystor.pl/pliki/ads_world.txt
+
+Lista domen dokonuj¹ca wy³udzania informacji (phishing) https://www.tranzystor.pl/pliki/phishing.txt
+
+Lista domen z malware https://www.tranzystor.pl/pliki/malware.txt
+
+Lista stron xxx, szczególnie polecana gdy masz dzieci. ??
+https://www.tranzystor.pl/pliki/black_list_porno.txt
+https://www.tranzystor.pl/pliki/black_list_porno_pl.txt
+
+Lista domen od „My YaCy Search Engines” jest ponad 1,2 miliona pozycji
+https://www.tranzystor.pl/pliki/allhosts.txt
+
+Lista stron z fakenews oko³o 700.
+https://www.tranzystor.pl/pliki/fakenews.txt
+
+To jest lista adresów URL, o których wiadomo, ¿e s¹ oszustwami lub pokrewne. Oko³o 200k pozycji
+https://www.tranzystor.pl/pliki/fraud.txt
+
